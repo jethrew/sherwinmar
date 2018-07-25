@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Camiguin Island",
     "imageUrl": "https://raw.githubusercontent.com/jethrew/sherwinmar/master/qwerty/5Camiguin-Island-Philippines.jpg",
-    "price": 1,341.9,
+    "price": 1341.9,
     "priceCurrency": "km",
     "lat": 18.940958, 
     "lng": 121.916318
@@ -75,7 +75,7 @@
     "id": 9,
     "name": "Hinatuan-Enchanted-River",
     "imageUrl": "https://raw.githubusercontent.com/jethrew/sherwinmar/master/qwerty/10Hinatuan-Enchanted-River.jpg",
-    "price": 1,6108,
+    "price": 16108,
     "priceCurrency": "km",
     "lat": 8.458775,
     "lng": 126.354828
